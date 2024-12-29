@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhanphh03&label=Profile%20views&color=0e75b6&style=flat" alt="nhanphh03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhanphh03&title=-Reviews" alt="nhanphh03" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhanphh03&theme=onedark&title=-Reviews" alt="nhanphh03" /></a> </p>
 
 - 🔭 I’m currently working on [Proton Technology](https://protontech.vn/)
 
