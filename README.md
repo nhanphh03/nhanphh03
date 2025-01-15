@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nhanphh2003@gmail.com**
 
-- ⚡ Fun fact **I think a girl, I like sharing and technology and I like ....**
+- ⚡ Fun fact **I think : i like a girl, I like sharing and technology and I like ....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
