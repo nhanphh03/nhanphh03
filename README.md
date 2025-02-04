@@ -1,5 +1,6 @@
 <h1 align="center">Hi, my name is Nhan, nice to meet you!</h1>
 <h3 align="center">A Human.</h3>
+<h3 align="center">Chỉ có ta mới được nói ta ngu ngốc !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhanphh03&label=Profile%20views&color=0e75b6&style=flat" alt="nhanphh03" /> </p>
 
