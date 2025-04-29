@@ -27,4 +27,3 @@ Không phải ai cũng may mắn được sinh ra trong một gia đình tốt v
 
 - ⚡ Fun fact **I think : i like a girl, I like sharing and technology and I like ....**
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhanphh03&" alt="nhanphh03" /></p> -->
