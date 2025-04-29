@@ -2,12 +2,6 @@
 <h3 align="center">A Human.</h3>
 <h3 align="center">Chỉ có ta mới được nói ta ngu ngốc !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhanphh03&label=Profile%20views&color=0e75b6&style=flat" alt="nhanphh03" /> </p>
-
-- 🔭 I’m currently working on [Proton Technology](https://protontech.vn/)
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/nhanphh03)
-
 - 📫 How to reach me **nhanphh2003@gmail.com**
   
 - DỄ PHẢI LÒNG NGƯỜI KHÁC VÌ ĐÂU?
@@ -32,10 +26,5 @@ Không phải ai cũng may mắn được sinh ra trong một gia đình tốt v
 ... Sưu tầm ...
 
 - ⚡ Fun fact **I think : i like a girl, I like sharing and technology and I like ....**
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhanphh03&show_icons=true&locale=en&layout=compact" alt="nhanphh03" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhanphh03&show_icons=true&locale=en" alt="nhanphh03" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhanphh03&" alt="nhanphh03" /></p> -->
