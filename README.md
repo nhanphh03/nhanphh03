@@ -25,5 +25,4 @@ Không phải ai cũng may mắn được sinh ra trong một gia đình tốt v
  <p></p>
 ... Sưu tầm ...
 
-- ⚡ Fun fact **I think : i like a girl, I like sharing and technology and I like ....**
 
