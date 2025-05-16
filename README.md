@@ -21,8 +21,4 @@ Thích chính mình mới là bài học mà bạn cần hiểu nhất. Bởi v�
 Không phải ai cũng may mắn được sinh ra trong một gia đình tốt và lớn lên trong điều kiện thuận lợi. Nhưng bây giờ chúng ta đã là người lớn, phải trưởng thành lên và học cách chăm sóc bản thân.
  ... Sưu tầm ...
 
- <b>Công chúa chỉ hôn con ếch khi biết chắc nó sẽ biến thành hoàng tử, người đẹp chỉ sống với quái vật khi rõ ràng anh ấy vốn là đại gia. Cuộc sống vốn dĩ là vậy, cách người ta đối xử với mình còn tuỳ thuộc xem mình là ai.</b>
- <p></p>
-... Sưu tầm ...
-
 
