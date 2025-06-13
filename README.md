@@ -20,5 +20,6 @@ Thích chính mình mới là bài học mà bạn cần hiểu nhất. Bởi v�
 
 Không phải ai cũng may mắn được sinh ra trong một gia đình tốt và lớn lên trong điều kiện thuận lợi. Nhưng bây giờ chúng ta đã là người lớn, phải trưởng thành lên và học cách chăm sóc bản thân.
  ... Sưu tầm ...
+"Bạn không cần phải hoàn hảo, bạn chỉ cần phải là chính mình, và từng bước tìm được bình yên."
 
 
